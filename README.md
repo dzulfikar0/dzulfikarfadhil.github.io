@@ -1,2 +1,2 @@
 # Tugas WGTIK
-dzulfikarfadhil.github.io
+https://dzulfikarfadhil.github.io
